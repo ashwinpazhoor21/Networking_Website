@@ -2,6 +2,8 @@
 
 Description:
 
+This is a project that I made in my freetime, and it is a social media type wesbite. Functions exactly like Twitter or Facebook. 
+
 *idea*: This folder contains all the *inspection profiles*, *.gitignore*, *misc.xml*. *modules.xml*, *network.iml*, *vcs.xml*. These files are all used to help the page work with the *network.js* function to make the page refresh content without having to yourself.
 
 *inspectionProfiles*: This folder contains the file for the network settings which is used to help render the page in real time.
