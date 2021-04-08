@@ -1,4 +1,4 @@
-# Networking Website(Similar to Twitter and Facebook)
+# Networking Website (Similar to Twitter and Facebook)
 
 Description:
 
