@@ -41,8 +41,3 @@ Description:
 *manage.py*: This is the main file which is used to run the project in the terminal and configuring more commands using python. 
 
 *db.sqlite3*: This is the file which contains all the information of the posts made on the website and when you edit your post and add new ones it all adds into this file.
-
-
-## Demonstration Video
-
-Youtube Link: https://youtu.be/f3LTUrEojak
